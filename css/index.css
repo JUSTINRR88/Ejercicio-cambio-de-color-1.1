@@ -1,7 +1,7 @@
 .contenedor{
     display: grid;
     width:38rem;
-    height: 38rem;
+    height: 50rem;
     grid-template-columns: 1fr 1fr;
     grid-template-rows: 20% 1fr;
     gap: 1rem;
